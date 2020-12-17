@@ -4,10 +4,10 @@ Interview Scheduler is single page application that allows users to easily manag
 
 ## Final Product
 
-!["Create"](https://github.com/AtaAnsari/Scheduler/blob/master/docs/Create.png)
-!["Delete"](https://github.com/AtaAnsari/Scheduler/blob/master/docs/Delete.png)
-!["Error"](https://github.com/AtaAnsari/Scheduler/blob/master/docs/Error.png)
-!["Main"](https://github.com/AtaAnsari/Scheduler/blob/master/docs/Main.png)
+!["Create"](https://github.com/KRIZVEE/Scheduler/blob/master/docs/Create.png)
+!["Delete"](https://github.com/KRIZVEE/Scheduler/blob/master/docs/Delete.png)
+!["Error"](https://github.com/KRIZVEE/Scheduler/blob/master/docs/Error.png)
+!["Main"](https://github.com/KRIZVEE/Scheduler/blob/master/docs/Main.png)
 
 ## Dependencies
 
