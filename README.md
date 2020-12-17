@@ -36,5 +36,5 @@ Interview Scheduler is single page application that allows users to easily manag
 - Install all dependencies (using the `npm install` command).
 - Run the development web server using the `npm start` command.
 
-## Author: Ata Ansari 
+## Author: Kashif Rizvee 
 
