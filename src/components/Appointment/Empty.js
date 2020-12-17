@@ -1,11 +1,11 @@
-import React from 'react';
-import 'components/Appointment/styles.scss';
+import React from "react"
 
-export default function Empty (props) {
-
-  return (
+// This is the view of the appointment is shown when there is no scheduled appointment for that given slot. 
+const Empty = function (props) {
+  return(
     <main className="appointment__add">
       <img
+        data-cy="add"
         className="appointment__add-button"
         src="images/add.png"
         alt="Add"
@@ -13,5 +13,6 @@ export default function Empty (props) {
       />
     </main>
   )
+}
 
-} 
+export default Empty
